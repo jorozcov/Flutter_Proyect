@@ -1,16 +1,13 @@
-# taller
+# Taller de flutter
 
-A new Flutter project.
+1. Creación de widget stateless que permita mostrar tu información (nombre, correo, edad)
 
-## Getting Started
+2. Crear una segunda pantalla y configurarla como pantalla principal. Dicha pantalla debe tener una imagen de fondo dinámica (la imagen será determinada por una variable en el sharedPreferences).
 
-This project is a starting point for a Flutter application.
+3. A la pantalla anterior agregar un botón que abrirá una pantalla de configuración.
 
-A few resources to get you started if this is your first Flutter project:
+4. En dicha pantalla de configuración se podrá seleccionar la imagen que quiero mostrar en la pantalla principal (se debe actualizar el sharedPreferences).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
